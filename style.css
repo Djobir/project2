@@ -1,0 +1,129 @@
+.top_banner{
+	background-image: url(media/interer-villa-zhiloe-prostranstvo-gostinaia-stolovaia-luxury.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 60px;
+	padding: 10px;
+}
+/*.menu{
+	margin-left: 20px;
+}*/
+.logo{
+	background-image: url(media/logo.png);
+	background-repeat: no-repeat;
+	padding: 100px;
+	background-size: 60%;
+	margin-left: 150px;
+}
+.top_banner h1{
+	margin-top: 50px;	
+	margin-bottom: 150px;
+	color: white;
+}
+.middle{
+	margin: 30px;
+}
+.middle:after {
+	display: inline-block;
+	content: '';
+	border-top: 2px solid black;
+	widows: ;h: 40px;
+}
+section a.menu{
+	color: white;
+	text-decoration: none;
+
+}
+section a.menu:hover{
+	border-top: 8px solid #2cef2c;
+}
+.menu
+.btn-primary {
+    color: #fff;
+    background-color: #007bff; 
+    border-color: #007bff; 
+}
+.container2 img{
+	border-radius: 40px;
+}
+.container2 p{
+	padding-top: 20px;
+	margin-left: 40px;
+    width: 345px;
+    text-align: justify;
+}
+.read{
+	width: 60px;
+    padding: 5px 23px;
+    color: white;
+    border-radius: 20px;
+    background: #2cef2c;
+}
+.container3{
+	margin-top: 20px;
+	background: #2cef2c;
+	padding: 60px 0 ;
+}
+
+.container.row {
+	justify-content: space-around;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.col_img img{
+	width: 200px;
+	padding: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.container3 h2{
+	color: green;
+}
+.container3 p{
+	color: green;
+	opacity: 0.5;
+}
+/*#pills-tab {
+margin-left: 534px;
+margin-right: 539px;
+background-color: white;
+border-radius: 5px;
+}*/
+.auto1{
+margin-left: auto;
+margin-right: auto;
+}
+#pills-tabContent img{
+	width: 250px;
+	height: 200px;
+}
+/*.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0);
+}*/
+.container4{
+	margin: 40px;
+}
+
+.flex1 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-top: 50px;
+
+}
+
+.my-flex img{
+	width: 300px;
+	height: 250px;
+}
+.section_2 {
+	width: 100%;
+	height: 800px;
+	background-color: #d4d4d4;
+}
+.section_2 h2{
+	padding-top: 50px;
+}
